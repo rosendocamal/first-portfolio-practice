@@ -19,7 +19,7 @@ Este proyecto es una página web personal como un diseñador web y desarrollador
 
 ## Ver Proyecto
 
-Puedes ver el proyecto desplegado en [**GitHub Pages**](https://rosendocamal.github.io/practice-portfolio).
+Puedes ver el proyecto desplegado en [**GitHub Pages**](https://rosendocamal.github.io/first-portfolio-practice).
 
 ## Licencia
 
